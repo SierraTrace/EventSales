@@ -3,10 +3,7 @@
 -- Actividad: Producto 1
 --
 -- Grupo: Cnv20241_Grupo07: [DB Masters]
--- 
--- Integrantes: 
-. Esther Vanesa Sierra Sánchez
-. Daniel Carrasco Luque
+
 --
 -- Database: [fp_046_07]
 -- --------------------------------------------------------------
