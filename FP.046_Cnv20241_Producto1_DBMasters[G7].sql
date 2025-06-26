@@ -9,6 +9,7 @@
 -- --------------------------------------------------------------
 /* Utilizar la misma numeración de preguntas de la actividad. Ejemplos: */
 
+*.sql linguist-language=SQL
 
 --
 -- Ejercicio 3:
